@@ -8,12 +8,12 @@ I am currently a sophomore undergraduate student at Changzhou University
 
 My current background:
 
--C language:basic
--Python:basic
--Calculus:good foundation
--Linear Algebra:good foundation
--GET-4:608
--GET-6:483
+-C language: basic
+-Python: basic
+-Calculus: good foundation
+-Linear Algebra: good foundation
+-GET-4: 608
+-GET-6: 483
 
 ##My Goals
 
