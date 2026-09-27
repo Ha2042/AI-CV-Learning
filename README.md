@@ -26,7 +26,7 @@ My current background:
 
 ## Learning Log
 
-## September 27 ,2026
+### September 27 ,2026
 
 Started this repository and began learning PyTorch and computer version.
 
