@@ -4,13 +4,13 @@
 
 # Today I Learned:
 
--Tensor
--Dataset
--DataLoader
--nn.Module
--forward()
--loss
--optimizer
+  - Tensor
+  - Dataset
+  - DataLoader
+  - nn.Module
+  - forward()
+  - loss
+  - optimizer
 
 # Problem
 
