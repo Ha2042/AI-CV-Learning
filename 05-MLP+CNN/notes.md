@@ -25,5 +25,5 @@
 
 # Next
 
-Grasp the big picture of computer vision tasks like classification, detection, segmentation, and saliency without heavy coding.
+Grasp the big picture of computer vision tasks like classification, detection, segmentation, and saliency.
 
