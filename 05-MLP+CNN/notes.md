@@ -14,8 +14,7 @@
 ## 模型模式切换错误
 
 - 错误写法：model.train(images)
-- 正确写法：model.train()
--          output=model(images)
+- 正确写法：model.train()  output=model(images)
 
 ## 如何提高Accuracy
 
